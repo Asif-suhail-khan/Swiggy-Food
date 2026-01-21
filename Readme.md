@@ -40,15 +40,15 @@ The key objectives of this project are:
 
 ### 1.3 Tools & Technologies Used
 
-- **SQL Server** ¿ Core data processing & transformations
+- **SQL Server** Â¿ Core data processing & transformations
     
-- **T-SQL** ¿ Data cleaning, validation, and analytics queries
+- **T-SQL** Â¿ Data cleaning, validation, and analytics queries
     
-- **Dimensional Modelling (Star Schema)** ¿ Data warehouse design
+- **Dimensional Modelling (Star Schema)** Â¿ Data warehouse design
     
-- **Relational Database Concepts** ¿ Keys, constraints, normalization
+- **Relational Database Concepts** Â¿ Keys, constraints, normalization
     
-- **Business Intelligence Concepts** ¿ KPIs, trends, segmentation
+- **Business Intelligence Concepts** Â¿ KPIs, trends, segmentation
     
 
 ---
@@ -373,15 +373,18 @@ This reveals:
 
 ## 8. Recommendations
 
-¿? Focus marketing efforts on **high-revenue cities and cuisines**  
-¿? Partner closely with **top-performing restaurants**  
-¿? Optimize pricing strategies around **popular spending ranges**  
-¿? Use ratings to improve quality control and customer satisfaction  
-¿? Extend the warehouse to support **real-time analytics dashboards**
+- Focus marketing efforts on **high-revenue cities and cuisines**  
+- Partner closely with **top-performing restaurants**  
+- Optimize pricing strategies around **popular spending ranges**  
+- Use ratings to improve quality control and customer satisfaction  
+- Extend the warehouse to support **real-time analytics dashboards**
 
 ---
 
-![[Pasted image 20260121163136.png]]
+**ER Diagram**
+<img width="923" height="618" alt="image" src="https://github.com/user-attachments/assets/2af9c288-9bb1-4530-a352-07a88dcec461" />
+
+
 
 ## 9. Conclusion
 
