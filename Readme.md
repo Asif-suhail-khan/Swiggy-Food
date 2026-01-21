@@ -381,6 +381,8 @@ This reveals:
 
 ---
 
+![[Pasted image 20260121163136.png]]
+
 ## 9. Conclusion
 
 This project demonstrates a **full-cycle data engineering and analytics workflow**, transforming raw Swiggy transaction data into a **structured, high-performance analytical model**. By combining data cleaning, dimensional modelling, and business analysis, the project delivers **enterprise-grade insights suitable for decision-makers and BI platforms**.
